@@ -1,2 +1,8 @@
 # IntelliJ idea
 .idea/
+
+# files and folders created from venv
+bin/
+include/
+lib/
+pyvenv.cfg
